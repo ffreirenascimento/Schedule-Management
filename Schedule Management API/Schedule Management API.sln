@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule Management API", "Schedule Management API\Schedule Management API.csproj", "{C099929E-7FD1-4F1E-9C25-30F9D36CFB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C099929E-7FD1-4F1E-9C25-30F9D36CFB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C099929E-7FD1-4F1E-9C25-30F9D36CFB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C099929E-7FD1-4F1E-9C25-30F9D36CFB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C099929E-7FD1-4F1E-9C25-30F9D36CFB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03F64DD-44FD-4470-B3A3-098A84340FEC}
+	EndGlobalSection
+EndGlobal
